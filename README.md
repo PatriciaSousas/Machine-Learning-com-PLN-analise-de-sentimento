@@ -1,8 +1,4 @@
-# Linguagem-Natural-parte-1-NLP-com-analise-de-sentimento
+A ideia é criar um modelo de machine learning capaz de interpretar a linguagem humana e classificar textos.
 
-- Conceitos fundamentais do Processamento de Linguagem Natural
-- Análise de Sentimento de modo automatizado
-- Arquitetura para classificação de sentimentos
-- Visualizações para facilitar a análise de dados textuais
-- NLTK uma das principais bibliotecas python para PLN.
-- Boas práticas voltadas ao PLN.
+O objetivo do projeto é criar analisador de sentimentos, apartir de filmes. Supondo que uma pessoa assista um filme, busque criticas desse filme na internet
+após interpretação, classifica as resenhas, a pessoa defini que é bom ou ruim o filme, a ideia é construir esse mesmo tipo de analise mas com machine learning.
